@@ -1,6 +1,6 @@
 function App() {
   return (
-    <section className="App">
+    <section className="container">
       <h1>Hello from React Land</h1>
     </section>
   );
