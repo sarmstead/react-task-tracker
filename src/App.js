@@ -26,7 +26,7 @@ function App() {
   return (
     <section className="container">
       <Header />
-      <Tasks />
+      <Tasks tasks={tasks} />
     </section>
   );
 }
